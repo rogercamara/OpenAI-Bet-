@@ -30,4 +30,4 @@ O código principal do projeto realiza as seguintes funções:
 3. **Execução**: Execute o script Python no terminal. Insira seu nome quando solicitado e faça uma pergunta sobre a liga de futebol.
 
    ```shell
-   python seu_script.py
+   python openaibet.py
